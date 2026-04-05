@@ -1,0 +1,21 @@
+{
+  "name": "devops-pipline",
+  "version": "1.0.0",
+  "description": "Simple DevOps pipeline project",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prashanth80888/devops-pipline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Prashanth80888/devops-pipline/issues"
+  },
+  "homepage": "https://github.com/Prashanth80888/devops-pipline#readme",
+  "keywords": ["devops", "nodejs", "ci-cd"],
+  "author": "Prashanth",
+  "license": "ISC"
+}
